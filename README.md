@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harry van der Valk and am woriking on GitHub under @HarryShipCloud 
+- 👋 Hi, I’m Harry van der Valk and I was working on GitHub under @HarryShipCloud 
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning the severall kind of software used at Shipcloud
 - 💞️ I’m looking to collaborate on development and simplify processes
